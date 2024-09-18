@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a project named phone directory.<br>I'm looking to colabrate on any project where i am abel to learn<br>I'm currently learning typescript<br>Ask me about Javascript,Node.js,express,mongo db,mysql<br>The first computer bug was an actual bug—a moth found trapped in a Harvard Mark II computer in 1947. This event popularized the term "bug" for glitches in code.
+I'm currently working on a project named phone directory.<br>I'm looking to collaborate on any project where i am abel to learn<br>I'm currently learning typescript<br>Ask me about Javascript,Node.js,express,mongo db,mysql<br>The first computer bug was an actual bug—a moth found trapped in a Harvard Mark II computer in 1947. This event popularized the term "bug" for glitches in code.
 
 
 ## 🌐 Socials:
