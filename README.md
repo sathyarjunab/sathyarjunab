@@ -15,6 +15,7 @@ Fun fact: The term *"bug"* for coding glitches originated in 1947 when an actual
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sathya-arjun-7767ba238)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/sathyarjun007/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white)](https://WhatsApp.com/u/sathyarjun007/)
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
